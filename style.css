@@ -1,0 +1,10 @@
+body{
+background-color: lightgrey;
+}
+.a{
+   font-size: 20px;
+   color: purple;
+}
+form{
+    margin-left: 100px;
+}
